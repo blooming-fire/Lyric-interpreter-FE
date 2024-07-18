@@ -1,0 +1,41 @@
+.compare-table {
+    width: 100%;
+    border-collapse: collapse;
+    margin: 20px 0;
+  
+    thead {
+  
+      th {
+        padding: 16px;
+        width: 110px;
+        height: 52px;
+        border: 1px solid #E2E5EA;
+        text-align: left;
+        font-size: 13px;
+        font-weight: 400;
+        color:#667084
+      }
+    }
+  
+    tbody {
+      tr {
+       
+        td {
+            padding: 16px;
+            width: 110px;
+            height: 52px;
+            font-size: 13px;
+            font-weight: 400;
+          border: 1px solid #ddd;
+          text-align: left;
+          color: #1B1E26;
+        }
+      }
+    }
+  
+    th,
+    td {
+      text-align: center;
+    }
+  }
+  
